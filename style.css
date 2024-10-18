@@ -1,0 +1,27 @@
+nav {
+    background-color: rgba(254, 174, 13, 0.947)
+}
+
+article {
+    background-color: rgba(146, 86, 7, 0.532);
+}
+
+h3 {
+    background-color: rgb(227, 142, 23)
+}
+
+#else {
+    background-color: rgba(218, 137, 5, 0.682)
+}
+
+#contact,
+#email {
+    background-color: rgba(164, 97, 10, 0.767)
+}
+
+header,
+article,
+#else {
+    border: 2px solid rgb(93, 52, 7);
+    border-radius: 10px
+}
